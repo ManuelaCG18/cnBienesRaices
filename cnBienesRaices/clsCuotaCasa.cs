@@ -27,7 +27,7 @@ namespace cnBienesRaices
 
             return CostoCasa * 0.30m;
         }
-
+        // esto es un comentario de ejemplo para tener cambios en el codigo y hacer el commit y el push
         public decimal CalcularCuotaMensual()
         {
             decimal enganche = CalcularEnganche();
