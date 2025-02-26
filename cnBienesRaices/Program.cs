@@ -27,7 +27,7 @@ namespace cnBienesRaices
 
 				Console.WriteLine("\nResultados: ");
 				Console.WriteLine($"Enganche requerido: {calculadora.CalcularEnganche():C}");
-				Console.WriteLine($"Cuota mensual: {calculadora.CalcularCuotaMensual():C}");
+				Console.WriteLine($"Cuota mensual :) : {calculadora.CalcularCuotaMensual():C}");
 			}
 			catch (Exception ex)
 			{
